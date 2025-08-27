@@ -7,9 +7,9 @@ const Hero = () => {
   const [charIndex, setCharIndex] = useState(0);
 
   const roles = [
-    "a Cybersecurity Analyst",
+    "a Cybersecurity Researcher",
     "an Ethical Hacker",
-    "a SOC Researcher",
+    "a SOC Analyst",
     "a Mentor & Learner"
   ];
 
