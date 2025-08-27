@@ -4,7 +4,7 @@ import { GraduationCap, Calendar, Star } from "lucide-react";
 const Education = () => {
   const education = [
     {
-      logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmpnvva.in%2FHome%2FUProfile%3FinstituteID%3D17&psig=AOvVaw0bwUOrL8u4pocFNoFrLECJ&ust=1756321764834000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOC5lNGWqY8DFQAAAAAdAAAAABAE",
+      logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-U_fG-jRjom8yGQgmwIc-g7Y_o2yw1Omhw&s",
       school: "Mandsaur University",
       degree: "BCA (Bachelor of Computer Applications)",
       cgpa: "Ongoing",
@@ -17,7 +17,7 @@ const Education = () => {
       ],
     },
     {
-      logo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FFlorenceInternationalSchoolManasa%2F&psig=AOvVaw1-fdlPPsonlSyNuhfm0SC4&ust=1756321825495000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiA7eaWqY8DFQAAAAAdAAAAABAE", 
+      logo: "https://scontent.fidr4-1.fna.fbcdn.net/v/t39.30808-6/299600040_440518554764473_936405043452893202_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4P70yUPpaf0Q7kNvwH4gT7y&_nc_oc=Adljik4wP9DP2Ys1Z0MkueQ7IYDKb4OpCAmL-s5BYrI4h3O9eberpBRzOiDphzIiCA8&_nc_zt=23&_nc_ht=scontent.fidr4-1.fna&_nc_gid=b9gssTEAuGjrvoRoYbeLOA&oh=00_AfX6JlCqh3jPfngjKdfKF_noKw1IRX0nx_6MkGghgOcHAg&oe=68B5246B", 
       school: "Florence International School, Manasa",
       degree: "High School ",
       period: "2015 - 2019",
@@ -51,11 +51,11 @@ const Education = () => {
               className="flex flex-col md:flex-row md:items-start md:space-x-10"
             >
               {/* Logo on Left */}
-              <div className="flex-shrink-0 w-28 h-28 md:w-32 md:h-32 mx-auto md:mx-0 mb-6 md:mb-0">
+              <div className="flex-shrink-0 w-30 h-30 md:w-32 md:h-32 mx-auto md:mx-0 mb-6 md:mb-0">
                 <img
                   src={edu.logo}
                   alt={edu.school}
-                  className="w-full h-full object-contain rounded-full bg-white p-3 shadow-lg"
+                  className="w-full h-full object-cover rounded-full shadow-lg"
                 />
               </div>
 
