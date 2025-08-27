@@ -8,7 +8,6 @@ const Header = () => {
 
   const navItems = [
     { path: '/', label: 'Home', icon: Home },
-    { path: '/about', label: 'About', icon: User },
     { path: '/education', label: 'Education', icon: GraduationCap },
     { path: '/experience', label: 'Experience', icon: Briefcase },
     { path: '/awards', label: 'Awards & Involvements', icon: Award },
