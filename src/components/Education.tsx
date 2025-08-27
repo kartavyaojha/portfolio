@@ -12,6 +12,7 @@ const Education = () => {
       activities: ["Cybersecurity Club", "Workshops & Technical Events"],
       achievements: [
         "published a research paper on 'Reducing SOC Analyst Burnout' in the International Conference on Innovative Engineering and Computational Technologies (ICIECT).",
+    
       ],
     },
     {
