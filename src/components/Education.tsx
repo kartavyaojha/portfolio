@@ -8,7 +8,7 @@ const Education = () => {
       school: "Mandsaur University",
       degree: "BCA (Bachelor of Computer Applications)",
       cgpa: "Ongoing",
-      period: "2023 - 2027",
+      period: "2024 - 2027",
       activities: ["Cybersecurity Club", "Workshops & Technical Events"],
       achievements: [
         "published a research paper on 'Reducing SOC Analyst Burnout' in the International Conference on Innovative Engineering and Computational Technologies (ICIECT).",
