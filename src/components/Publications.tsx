@@ -4,39 +4,6 @@ import { FileText, ExternalLink, Calendar, Users } from 'lucide-react';
 const Publications = () => {
   const publications = [
     {
-      title: "Deep Learning Applications in Real-time Computer Vision: A Comprehensive Study",
-      authors: ["Your Name", "Dr. Jane Smith", "Prof. John Doe"],
-      journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-      year: "2023",
-      type: "Journal Article",
-      abstract: "This paper presents a comprehensive study of deep learning applications in real-time computer vision, focusing on optimization techniques for mobile and edge devices. We propose novel architectures that achieve 40% faster inference while maintaining accuracy.",
-      citations: 45,
-      link: "#",
-      tags: ["Deep Learning", "Computer Vision", "Real-time Processing"]
-    },
-    {
-      title: "Scalable Web Architecture Patterns for Modern Applications",
-      authors: ["Your Name", "Dr. Alice Johnson"],
-      journal: "ACM Computing Surveys",
-      year: "2022",
-      type: "Survey Paper",
-      abstract: "A comprehensive survey of scalable web architecture patterns, examining microservices, serverless computing, and containerization approaches. Includes performance benchmarks and best practices for enterprise applications.",
-      citations: 32,
-      link: "#",
-      tags: ["Web Architecture", "Microservices", "Scalability"]
-    },
-    {
-      title: "Machine Learning for Accessibility: Bridging the Digital Divide",
-      authors: ["Your Name", "Dr. Michael Brown", "Sarah Wilson"],
-      journal: "Proceedings of CHI Conference on Human Factors in Computing Systems",
-      year: "2022",
-      type: "Conference Paper",
-      abstract: "This work explores machine learning applications for improving digital accessibility, presenting novel approaches for screen reader optimization and voice navigation systems for visually impaired users.",
-      citations: 28,
-      link: "#",
-      tags: ["Machine Learning", "Accessibility", "HCI"]
-    },
-    {
       title: "Performance Optimization Techniques for React Applications",
       authors: ["Your Name"],
       journal: "Journal of Web Engineering",
@@ -46,7 +13,7 @@ const Publications = () => {
       citations: 18,
       link: "#",
       tags: ["React", "Performance", "Web Development"]
-    }
+    },
   ];
 
   return (

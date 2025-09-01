@@ -4,6 +4,15 @@ import { Award, Trophy, Star, BookOpen, ExternalLink } from 'lucide-react';
 const Awards = () => {
   const certifications = [
     {
+      title: "Google Cybersecurity Professional Certificate",
+      organization: "Google",
+      year: "2025",
+      description: "Comprehensive program covering core cybersecurity concepts, risk management, and hands-on skills.",
+      icon: Award,
+      color: "text-orange-400",
+      link: "https://coursera.org/verify/professional-cert/WZZRLA4CFJOG" // replace with your actual link
+    },
+    {
       title: "Ethical Hacking Essentials",
       organization: "EC-Council",
       year: "2024",

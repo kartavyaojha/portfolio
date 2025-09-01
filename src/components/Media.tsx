@@ -13,6 +13,15 @@ const Blogs = () => {
     },
     {
       type: "article",
+      title: "The Journey from CTFs to Google: Real Lessons from a Cybersecurity Pro",
+      description: "A personal narrative on how participating in Capture The Flag (CTF) competitions can pave the way to a career in cybersecurity, A story of growth, learning, and seizing opportunities.",
+      thumbnail: "https://flashpoint.io/wp-content/uploads/2022/08/What_OSINT_1200x628-1024x536.png", 
+      date: "Augest 25, 2025",
+      platform: "WordPress",
+      link: "https://defencelogic.wordpress.com/2025/08/28/the-journey-from-ctfs-to-google-real-lessons-from-a-cybersecurity-pro/"
+    },
+    {
+      type: "article",
       title: "Welcome to SOC School: Your Cyber Mentor’s Guide!",
       description: "An engaging introduction to Security Operations Centers (SOC)—breaking down how SOCs detect, respond, and manage cyber threats in a fun, relatable way.",
       thumbnail: "https://flashpoint.io/wp-content/uploads/2022/08/What_OSINT_1200x628-1024x536.png", 
