@@ -32,7 +32,7 @@ const Awards = () => {
     },
     {
       title: "Introduction to Splunk",
-      organization: "sp",
+      organization: "Splunk",
       year: "2024",
       description: "Certified in leveraging Splunk for data analysis, SPL queries, and monitoring security logs.",
       icon: Award,
