@@ -16,7 +16,7 @@ const Education = () => {
       ],
     },
     {
-      logo: "https://scontent.fidr4-1.fna.fbcdn.net/v/t39.30808-6/299600040_440518554764473_936405043452893202_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=4P70yUPpaf0Q7kNvwH4gT7y&_nc_oc=Adljik4wP9DP2Ys1Z0MkueQ7IYDKb4OpCAmL-s5BYrI4h3O9eberpBRzOiDphzIiCA8&_nc_zt=23&_nc_ht=scontent.fidr4-1.fna&_nc_gid=b9gssTEAuGjrvoRoYbeLOA&oh=00_AfX6JlCqh3jPfngjKdfKF_noKw1IRX0nx_6MkGghgOcHAg&oe=68B5246B", 
+      logo: "https://lh3.googleusercontent.com/p/AF1QipNA8eNKER8wOI-24PSplUwpf_pdvMuaBbWBN5DS=s1360-w1360-h1020", 
       school: "Florence International School, Manasa",
       degree: "High School ",
       period: "2015 - 2023",
