@@ -7,13 +7,13 @@ const Experience = () => {
       title: "Technical Projects & Outreach Lead",
       company: "Association for Cyber Security (ACS)",
       location: "Remote / India",
-      period: "Jul 2024 – Present",
+      period: "Jul 2024 – july 2025",
       type: "Internship",
       description: "Led technical initiatives and outreach efforts to strengthen ACS’s presence in cybersecurity education and awareness.",
       responsibilities: [
         "Spearheaded creation and management of cybersecurity-focused content across ACS social media platforms, boosting community engagement.",
         "Launched awareness campaigns to educate students and professionals on security fundamentals and best practices.",
-        "Coordinated training and upskilling programs for interns, streamlining onboarding and boosting effectiveness.",
+        "Coordinated training and upskilling programs , streamlining onboarding and boosting effectiveness.",
         "Organized and facilitated webinars and technical workshops, attracting participants from multiple universities."
       ],
       technologies: ["Cybersecurity Awareness", "Team Leadership", "Content Strategy", "Workshops"]
