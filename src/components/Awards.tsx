@@ -10,16 +10,16 @@ const Awards = () => {
       description: "Comprehensive program covering core cybersecurity concepts, risk management, and hands-on skills.",
       icon: Award,
       color: "text-orange-400",
-      link: "https://coursera.org/verify/professional-cert/WZZRLA4CFJOG" // replace with your actual link
+      link: "https://coursera.org/verify/professional-cert/WZZRLA4CFJOG" 
     },
     {
       title: "Ethical Hacking Essentials",
       organization: "EC-Council",
-      year: "2024",
+      year: "2023",
       description: "Credential demonstrating proficiency in ethical hacking fundamentals and penetration testing practices.",
       icon: Award,
       color: "text-emerald-400",
-      link: "https://aspen.eccouncil.org/certificate/verify" // replace with your actual verification link
+      link: "https://learn.eccouncil.org/certificate/b17f1d33-feba-4a20-ac6f-ebb3fb1e0bb8" 
     },
     {
       title: "Cybersecurity Fundamentals",
@@ -28,8 +28,7 @@ const Awards = () => {
       description: "Certification covering networking security, incident response, and core cybersecurity concepts.",
       icon: BookOpen,
       color: "text-purple-400",
-      link: "https://www.credly.com/badges/ibm-cybersecurity-fundamentals" // replace with your actual link
-    },
+      link: "https://www.credly.com/badges/d378d1ee-4523-4f3c-bd41-f1c20dccab04/public_url" 
     {
       title: "Introduction to Splunk",
       organization: "Splunk",
@@ -37,7 +36,7 @@ const Awards = () => {
       description: "Certified in leveraging Splunk for data analysis, SPL queries, and monitoring security logs.",
       icon: Award,
       color: "text-orange-400",
-      link: "https://www.credly.com/badges/splunk-introduction" // replace with your actual link
+      link: "https://www.credly.com/badges/splunk-introduction" 
     }
   ];
 
