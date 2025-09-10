@@ -29,7 +29,7 @@ const Awards = () => {
       icon: BookOpen,
       color: "text-purple-400",
       link: "https://www.credly.com/badges/d378d1ee-4523-4f3c-bd41-f1c20dccab04/public_url" 
-    }
+    },
     {
       title: "Introduction to Splunk",
       organization: "Splunk",
