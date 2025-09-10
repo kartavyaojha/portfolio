@@ -4,7 +4,7 @@ import { Award, Trophy, Star, BookOpen, ExternalLink } from 'lucide-react';
 const Awards = () => {
   const certifications = [
     {
-      title: "Google Cybersecurity Professional Certificate",
+      title: "Google Cybersecurity Professional ",
       organization: "Google",
       year: "2025",
       description: "Comprehensive program covering core cybersecurity concepts, risk management, and hands-on skills.",
@@ -29,6 +29,7 @@ const Awards = () => {
       icon: BookOpen,
       color: "text-purple-400",
       link: "https://www.credly.com/badges/d378d1ee-4523-4f3c-bd41-f1c20dccab04/public_url" 
+    }
     {
       title: "Introduction to Splunk",
       organization: "Splunk",
